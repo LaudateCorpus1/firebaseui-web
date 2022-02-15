@@ -53,7 +53,7 @@
     "gulp-connect": "^5.5.0",
     "gulp-css-flip": "^0.4.0",
     "gulp-css-inline-images": "^0.1.1",
-    "gulp-sass": "^4.1.0",
+    "gulp-sass": "^5.0.0",
     "gulp-util": "^3.0.7",
     "protractor": "^7.0.0",
     "streamqueue": "^1.1.1",
@@ -61,7 +61,8 @@
   },
   "dependencies": {
     "dialog-polyfill": "^0.4.7",
-    "material-design-lite": "^1.2.0"
+    "material-design-lite": "^1.2.0",
+    "sass": "^1.49.7"
   },
   "peerDependencies": {
     "firebase": "^9.1.3"
